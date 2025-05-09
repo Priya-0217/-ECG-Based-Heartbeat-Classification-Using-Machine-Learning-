@@ -1,5 +1,5 @@
 # -ECG-Based-Heartbeat-Classification-Using-Machine-Learning-
-# 🫀 Heartbeat Classification from ECG Signals using Machine Learning
+
 
 This project demonstrates how to process ECG signals and classify heartbeat types using the MIT-BIH Arrhythmia Database. It covers signal filtering, R-peak detection, window extraction, label encoding, and heartbeat classification using a Random Forest model.
 
